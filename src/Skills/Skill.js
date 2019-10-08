@@ -7,9 +7,9 @@ function Skill(props) {
             <div className={styles.skillIcon}>
                 <img src={props.icon} alt=""/>
             </div>
-            <span className={styles.skillTitlel}>
+            <h3 className={styles.skillTitlel}>
                 {props.title}
-            </span>
+            </h3>
             <span className={styles.descriptionSkill}>
                 {props.description}
             </span>

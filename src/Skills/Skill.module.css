@@ -4,6 +4,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 100px;
 }
 
 .skillIcon{
@@ -20,15 +21,28 @@
 }
 .skillIcon img{
     transform: rotate(-45deg);
-    width:70%;
+    width:55%;
+}
+.skillTitlel{
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    margin: 0 0 15px;
+    padding: 0;
+    font-size: 16px;
+
 }
 .descriptionSkill{
     text-align: center;
+    letter-spacing: 1px;
 }
 @media screen and (max-width:600px){
     .skill{
         width: 100%;
-        margin-bottom: 100px;
+
     }
 }
 @media screen and (max-width:1130px){

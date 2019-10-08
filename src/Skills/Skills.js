@@ -19,13 +19,13 @@ function Skills() {
                 <div className={styles.skillsWrapper}>
                     <Skill title={'HTML'}
                            icon={htmlIcon}
-                           description={'подробное описание HTML'}/>
+                           description={'Верстка'}/>
                     <Skill title={'CSS'}
                            icon={cssIcon}
-                           description={'подробное описание CSS'}/>
+                           description={'Flex,grid, медиа-запросы'}/>
                     <Skill  title={'React'}
                             icon={reactIcon}
-                            description ={'подробное описание React'}/>
+                            description ={'Функциональные компоненты, классовые компоненты, маршрутизация, Redux, Redux-Form'}/>
                     <Skill  title={'JS'}
                             icon={jsIcon}
                             description ={'подробное описание JS'}/>

@@ -5,14 +5,16 @@
     font-family: 'Montserrat', sans-serif;
     line-height: 1.2;
     letter-spacing: 5px;
-
     font-stretch: normal;
+    font-size: 36px;
+    text-transform: capitalize;
+    margin-bottom: 53px;
+
 
 
 }
 .headerTitle{
     font-weight: 500;
-    font-size: 36px;
  text-align: center;
 
 
@@ -22,7 +24,7 @@
     height: 1px;
     width:55px;
     background-color: #ea548d;
-    margin-bottom: 30px;
+
 }
 @media screen and (max-width:600px){
     .headerTitle{
