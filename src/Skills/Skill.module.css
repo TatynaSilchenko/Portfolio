@@ -37,7 +37,9 @@
 }
 .descriptionSkill{
     text-align: center;
+    font-family: 'Noto Sans', sans-serif;
     letter-spacing: 1px;
+    line-height: 1.8;
 }
 @media screen and (max-width:600px){
     .skill{

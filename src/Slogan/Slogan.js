@@ -5,8 +5,10 @@ import HeaderTitle from "../HeaderTitle/HeaderTitle";
 function Slogan() {
     return (
         <div className={styles.slogan}>
-            Рассматриваю варианты удаленной работы
-<button className={styles.btnSubmit} type='submit'> Нанаять меня</button>
+            <div className={styles.container}>
+            <HeaderTitle title={'Рассматриваю варианты удаленной работы'}/>
+            <a className={styles.btnSubmit} href={'#k;j;'}> Нанаять меня</a>
+        </div>
         </div>
     );
 }

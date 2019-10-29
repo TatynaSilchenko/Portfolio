@@ -9,10 +9,10 @@ function Projects() {
             <div className={styles.container}>
                 <HeaderTitle title={'Проекты'}/>
                 <div className={styles.projectsWrapper}>
-                    <Project/>
-                    <Project/>
-                    {/*<Project/>*/}
-                    {/*<Project/>*/}
+                    <Project title={'TodoList'} description={'something description jbkfbljdbvldvb'}/>
+                    <Project title={'Social Network'} description={'something description jbkfbljdbvldvbigigiugiugigib giguiug uhuh uh'}/>
+                    <Project title={'Selebration bar'} description={'something description jbkfbljdbvldvb'}/>
+
                 </div>
 
             </div>

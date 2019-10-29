@@ -2,17 +2,17 @@ import React from 'react';
 import styles from './Project.module.css';
 
 
-function Project() {
+function Project(props) {
     return (
                 <div className={styles.project}>
                     <div className={styles.progectIcon}>
                         <a className={styles.btnShow} href=''>Смотреть</a>
                     </div>
                     <span className={styles.projectTitle}>
-                        Название проекта
+                        {props.title}
                     </span>
                     <div className={styles.progectDescription}>
-                        Краткое описание проекта
+                        {props.description}
                     </div>
                     </div>
     );

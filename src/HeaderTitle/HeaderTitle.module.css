@@ -1,35 +1,36 @@
-.headerBlock{
+.headerBlock {
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
     line-height: 1.2;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     font-stretch: normal;
-    font-size: 36px;
-    text-transform: capitalize;
+    font-size: 30px;
+
     margin-bottom: 53px;
 
 
-
 }
-.headerTitle{
+
+.headerTitle {
     font-weight: 500;
- text-align: center;
-
+    text-align: center;
 
 
 }
-.line{
+
+.line {
     height: 1px;
-    width:55px;
+    width: 55px;
     background-color: #ea548d;
 
 }
-@media screen and (max-width:600px){
-    .headerTitle{
-        font-size: 21px;
-        line-height: 0.2;
-        letter-spacing: 4px;
+
+@media screen and (max-width: 500px) {
+    .headerTitle {
+        font-size: 30px;
+        line-height: 1;
+        letter-spacing: 7px;
     }
-    }
+}
