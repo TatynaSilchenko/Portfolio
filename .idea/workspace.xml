@@ -3,23 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="2099aba5-88c8-4ce8-8342-f8dfe266c2e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts/Contacts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts/Contacts.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/NavMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Header/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/NavMenu.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeaderTitle/HeaderTitle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeaderTitle/HeaderTitle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainInfo/MainInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainInfo/MainInfo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainInfo/MainInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainInfo/MainInfo.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Projects/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Project.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Projects/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Project.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Skills/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skill.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skills.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Slogan/Slogan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan/Slogan.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Slogan/Slogan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan/Slogan.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,10 +47,15 @@
   </component>
   <component name="ProjectId" id="1SHmLKYblcWaxmNZfP1BTbYwKzN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Clons/portfolio/portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -69,18 +79,6 @@
       <recent name="D:\React_SN\my_portfolio\src\Header" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -97,6 +95,18 @@
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -130,6 +140,11 @@
       <workItem from="1571308934628" duration="12000" />
       <workItem from="1572005672181" duration="3915000" />
       <workItem from="1572248172573" duration="16440000" />
+      <workItem from="1572346270887" duration="1699000" />
+      <workItem from="1572422204498" duration="1251000" />
+      <workItem from="1579607896655" duration="7162000" />
+      <workItem from="1579683910697" duration="315000" />
+      <workItem from="1581339515277" duration="15649000" />
     </task>
     <servers />
   </component>
@@ -148,5 +163,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="191" key="FileChooserDialogImpl" timestamp="1579684000428">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="577" y="191" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1579684000428" />
+    <state x="453" y="199" key="run.anything.popup" timestamp="1581339842842">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="453" y="199" key="run.anything.popup/62.0.1474.864@62.0.1474.864" timestamp="1581339842842" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.js</url>
+          <line>25</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

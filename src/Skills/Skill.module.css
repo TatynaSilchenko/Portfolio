@@ -1,10 +1,12 @@
 
 .skill{
+    height: max-content;
     width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 100px;
+
 }
 
 .skillIcon{
@@ -40,6 +42,8 @@
     font-family: 'Noto Sans', sans-serif;
     letter-spacing: 1px;
     line-height: 1.8;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 @media screen and (max-width:600px){
     .skill{

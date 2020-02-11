@@ -5,10 +5,12 @@ import LinkedInIkon from '../assets/img/LinkedInIkon.png'
 import vkIkon from '../assets/img/vkIkon.svg'
 import viberIkon from '../assets/img/viberIcon.png'
 import HeaderTitle from "../HeaderTitle/HeaderTitle";
+import Fade from "react-reveal/Fade";
 
 function Footer() {
     return (
         <div className={styles.footer}>
+            <Fade clear>
             <div className={styles.container}>
                 <HeaderTitle title={'Сильченко Татьяна'}/>
                 <div className={styles.socialBlock}>
@@ -36,6 +38,7 @@ function Footer() {
                 </div>
                 <span className={styles.copyright}> ©2019 Все права защищены</span>
             </div>
+            </Fade>
         </div>
     );
 }
