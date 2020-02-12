@@ -1,6 +1,6 @@
 .contacts {
-    height: max-content;
-    /*height: 100vh;*/
+    /*height: max-content;*/
+    height: 100vh;
     background-color: #fff;
     display: flex;
     justify-content: center;
