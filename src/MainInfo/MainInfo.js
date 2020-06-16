@@ -8,7 +8,7 @@ function MainInfo() {
             <div className={styles.container}>
                 <div className={styles.greeting}>
                     <span>Привет!</span>
-                    <span>Я Татьяна <span>Сильченко</span>
+                    <span>Я Татьяна Сильченко
                     </span>
                     <h1>Я Front-End разработчик</h1>
                 </div>

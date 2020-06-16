@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2099aba5-88c8-4ce8-8342-f8dfe266c2e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/NavMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/NavMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/NavMenu.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainInfo/MainInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainInfo/MainInfo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainInfo/MainInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainInfo/MainInfo.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Project.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Projects/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Project.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skill.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skills.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slogan/Slogan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan/Slogan.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slogan/Slogan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan/Slogan.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +131,23 @@
       <workItem from="1579607896655" duration="7162000" />
       <workItem from="1579683910697" duration="315000" />
       <workItem from="1581339515277" duration="15649000" />
+      <workItem from="1581495181875" duration="3866000" />
+      <workItem from="1581777315358" duration="541000" />
+      <workItem from="1582112303901" duration="418000" />
+      <workItem from="1582805326857" duration="272000" />
+      <workItem from="1583405496622" duration="3318000" />
+      <workItem from="1583748139278" duration="613000" />
+      <workItem from="1585242926742" duration="3459000" />
+      <workItem from="1585396730703" duration="22000" />
+      <workItem from="1585662188770" duration="2349000" />
+      <workItem from="1586437180274" duration="2008000" />
+      <workItem from="1586682090398" duration="669000" />
+      <workItem from="1586867282853" duration="36000" />
+      <workItem from="1587664611086" duration="2340000" />
+      <workItem from="1589891817318" duration="1830000" />
+      <workItem from="1590497545638" duration="2116000" />
+      <workItem from="1592136685716" duration="1437000" />
+      <workItem from="1592302179977" duration="5277000" />
     </task>
     <servers />
   </component>
@@ -165,14 +168,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="577" y="191" key="FileChooserDialogImpl" timestamp="1579684000428">
+    <state x="437" y="32" key="CommitChangelistDialog2" timestamp="1592311857801">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="577" y="191" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1579684000428" />
-    <state x="453" y="199" key="run.anything.popup" timestamp="1581339842842">
+    <state x="437" y="32" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1592311857801" />
+    <state x="577" y="191" key="FileChooserDialogImpl" timestamp="1592302104571">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="453" y="199" key="run.anything.popup/62.0.1474.864@62.0.1474.864" timestamp="1581339842842" />
+    <state x="577" y="191" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1592302104571" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -180,7 +183,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/App.js</url>
           <line>25</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
